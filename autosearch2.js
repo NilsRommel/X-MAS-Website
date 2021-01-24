@@ -4,7 +4,7 @@ function autocomplete(inp){
     var input = this.value;
     console.log(input);
     var maxResult = 5;
-    var key = "AIzaSyDCjKDf52rdWYMXjkUHKmgAJRGM3k4j_pk";
+    var key = #GoogleAPI;
 
     var arr = new Array();
     var duration = new Array();
